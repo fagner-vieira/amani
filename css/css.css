@@ -6,7 +6,7 @@
     Large: 1200 */
 
 /* */
-@import url('https://fonts.googleapis.com/css?family=Rubik:400,700,900');
+@import url('https://fonts.googleapis.com/css?family=Rubik:300,400,700,900');
 /* */
 
 body{
@@ -82,3 +82,31 @@ body{
 }
 
 /* /Call To Action */
+
+/* Section 01 */
+
+.bgColorTwo{
+    background-color: #f4f4f4;
+    padding: 2%;
+}
+
+h1{
+    font-size: 1.5em;
+    font-weight: 700;
+    text-align: center;
+}
+
+.txtSectionOne{
+    color: #848285;
+    text-align: center;
+    font-size: 1.3em;
+    font-weight: 300;
+}
+
+/* /Section 01 */
+
+/* Section 02 */
+
+
+
+/* /Section 02 */

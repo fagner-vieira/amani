@@ -98,7 +98,19 @@
 			</div>
 		</header>
 
-
+		
+		<section class="container-fluid bgColorTwo">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<img src="images/linha.jpg" class="center-block" alt="">
+						<h1>Móveis Planejados e Sob Medida</h1>
+						<p class="txtSectionOne">A Amani contempla todos os segmentos de mercado com suas diferentes marcas, acabamentos impecáveis e matéria prima de qualidade, produtos 100% em MDF, garantindo a excelência e exclusividade no design que constrói a história de sucesso da Amani.</p>
+						<img src="images/linha.jpg" class="center-block" alt="">
+					</div>
+				</div>
+			</div>
+		</section>
 
 
 
