@@ -23,6 +23,62 @@ body{
 
 /* Call To Action */
 
+.bgImageOne{
+    background-image: url(../images/bgOne.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
 
+.bgCall{
+    background-image: url(../images/promo.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: contain;
+
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.txtCallOne, .txtCallTwo, .txtCallThree{
+    color: #fff;
+    font-size: 1.5em;
+    text-align: center;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 20px;
+}
+
+.txtCallOne{
+    margin-top: 35px;
+    margin-bottom: 160px;
+}
+
+.txtCallTwo{
+    margin-bottom: 35px;
+}
+
+.bgForm{
+    background-color: #105975;
+    border-radius: 10px;
+    padding: 5% 5% 0 5%;
+}
+
+.bgFormMarg{
+    margin-top: 16%;
+}
+
+.hotEnviar{
+    background-color: #2dd4f6;
+    border: 0;
+    border-radius: 5px;
+    padding: 3%;
+    color: #000;
+    font-weight: 700;
+}
+
+.hotEnviar:hover{
+    color: #fff;
+}
 
 /* /Call To Action */
