@@ -4,3 +4,25 @@
 /*  Small: 768 
     Medium: 992
     Large: 1200 */
+
+/* */
+@import url('https://fonts.googleapis.com/css?family=Rubik:400,700,900');
+/* */
+
+body{
+    font-family: 'Rubik', sans-serif;
+}
+
+/* Topo */
+
+.bgColorOne{
+    background-color: #231f20;
+}
+
+/* /Topo */
+
+/* Call To Action */
+
+
+
+/* /Call To Action */
