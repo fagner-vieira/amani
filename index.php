@@ -113,6 +113,34 @@
 		</section>
 
 
+		<section class="container-fluid bgColorThree">
+			<div class="container">
+				<div class="row rowMarginOne">
+					<div class="col-lg-3 colOne">
+						<img src="images/img01.jpg" class="img-responsive center-block noPadding" alt="">
+						<p class="txtOne">Apartamento 40m2</p>
+						<p class="txtTwo">6 ambientes</p>
+						<p class="text-center"><button type="button" class="btn btn-primary">7.900,00 em 10x</button></p>
+					</div>
+					<div class="col-lg-1">&nbsp;</div>
+					<div class="col-lg-3 colOne">
+						<img src="images/img02.jpg" class="img-responsive center-block noPadding" alt="">
+						<p class="txtOne">Apartamento 70m2</p>
+						<p class="txtTwo">8 ambientes</p>
+						<p class="text-center"><button type="button" class="btn btn-primary">14.000,00 em 10x</button></p>
+					</div>
+					<div class="col-lg-1">&nbsp;</div>
+					<div class="col-lg-3 colOne">
+						<img src="images/img03.jpg" class="img-responsive center-block noPadding" alt="">
+						<p class="txtOne">Apartamento 90m2</p>
+						<p class="txtTwo">9 ambientes</p>
+						<p class="text-center"><button type="button" class="btn btn-primary">23.000,00 em 10x</button></p>
+					</div>
+				</div>
+			</div>
+		</section>
+
+
 
 
 
