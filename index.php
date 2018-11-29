@@ -152,6 +152,45 @@
 		</section>
 
 
+		<section class="container-fluid">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-3 rowMarginOne">
+						<img src="images/img04.png" class="center-block img-responsive" alt="">
+					</div>
+					<div class="col-lg-3 rowMarginOne">
+						<img src="images/img05.png" class="center-block img-responsive" alt="">
+					</div>
+					<div class="col-lg-3 rowMarginOne">
+						<img src="images/img06.png" class="center-block img-responsive" alt="">
+					</div>
+					<div class="col-lg-3 rowMarginOne">
+						<img src="images/img07.png" class="center-block img-responsive" alt="">
+					</div>
+				</div>
+			</div>
+		</section>
+
+
+		<section class="container-fluid">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-3 rowMarginOne">
+						<img src="images/img04.png" class="center-block img-responsive" alt="">
+					</div>
+					<div class="col-lg-3 rowMarginOne">
+						<img src="images/img05.png" class="center-block img-responsive" alt="">
+					</div>
+					<div class="col-lg-3 rowMarginOne">
+						<img src="images/img06.png" class="center-block img-responsive" alt="">
+					</div>
+					<div class="col-lg-3 rowMarginOne">
+						<img src="images/img07.png" class="center-block img-responsive" alt="">
+					</div>
+				</div>
+			</div>
+		</section>
+
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 	<script src="js/jquery-1.11.3.min.js"></script>
 
