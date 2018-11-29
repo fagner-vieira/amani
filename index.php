@@ -172,20 +172,15 @@
 		</section>
 
 
-		<section class="container-fluid">
+		<section class="container-fluid bgColorFive">
 			<div class="container">
-				<div class="row">
-					<div class="col-lg-3 rowMarginOne">
-						<img src="images/img04.png" class="center-block img-responsive" alt="">
+				<div class="row rowMarginTwo">
+					<div class="col-lg-6">
+						<img src="images/img08.png" class="center-block img-responsive" alt="">
 					</div>
-					<div class="col-lg-3 rowMarginOne">
-						<img src="images/img05.png" class="center-block img-responsive" alt="">
-					</div>
-					<div class="col-lg-3 rowMarginOne">
-						<img src="images/img06.png" class="center-block img-responsive" alt="">
-					</div>
-					<div class="col-lg-3 rowMarginOne">
-						<img src="images/img07.png" class="center-block img-responsive" alt="">
+					<div class="col-lg-6 spaceOne">
+						<p class="txtFive">Sobre</p>
+						<p class="txtSix">A Amani Design é referência em qualidade no mercado de móveis, com infinidades de modelos de móveis convencionais, lindos ambientes contendo salas de jantar, estar e planejados completando a idealização de um sonho, muito conforto e aconchego.</p>
 					</div>
 				</div>
 			</div>

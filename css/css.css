@@ -170,8 +170,30 @@ h1{
 
 /* Section 04 */
 
+.spaceOne{
+    margin-top: 2%;
+}
+
 .bgColorFive{
     background-color: #f9f9f9;
+}
+
+.txtFive{
+    font-size: 3em;
+    font-weight: 300;
+    color: #000000;
+}
+
+.txtSix{
+    font-size: 1.4em;
+    font-weight: 300;
+    line-height: 1.62;
+    color: #848285;  
+}
+
+.rowMarginTwo{
+    margin-top: 6%;
+    margin-bottom: 5%;
 }
 
 /* /Section 04 */
