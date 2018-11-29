@@ -141,7 +141,15 @@
 		</section>
 
 
-
+		<section class="container-fluid BgColorFour">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<p class="txtThree">Atua no mercado do Grande ABC com mais de 40 anos<br/>produzindo móveis residenciais e também corporativos com<br/>6 anos de garantia e com clientes 100% satisfeitos. </p>
+					</div>
+				</div>
+			</div>
+		</section>
 
 
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
