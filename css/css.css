@@ -221,5 +221,31 @@ h1{
     margin-top: 10%;
 }
 
-
 /* /Footer */
+
+/* Ajustes Mobile */
+
+@media (max-width: 767px){
+    .txtCallOne{
+        font-size: 1.2em;
+        padding-top: 24px;
+        margin-bottom: 130px;
+    }
+
+    .bgCall{
+        height: 238px;
+    }
+
+    .bgFormMarg {
+        margin-bottom: 20%;
+    }
+    .noPadding {
+        width: 100%;
+    }
+
+    .txtSeven, .txtEigth{
+        text-align: center;
+    }
+}
+
+/* /Ajustes Mobile */
