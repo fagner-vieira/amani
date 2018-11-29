@@ -186,6 +186,30 @@
 			</div>
 		</section>
 
+
+		<section class="container-fluid bgColorSix">
+			<div class="container">
+				<div class="row rowMarginTwo">
+					<div class="col-lg-6 col-lg-offset-3">
+						<div class="row">
+							<div class="col-lg-3 col-lg-offset-2">
+								<img src="images/logo-footer.png" class="img-responsive center-block" alt="">
+							</div>
+							<div class="col-lg-7">
+								<p class="txtSeven">Endereço:</p>
+								<p class="txtEigth">Av. Portugal, 1363 - Centro<br/>Santo André - SP - CEP 09041-321</p>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-lg-12">
+								<p class="txtNine">© Amani Design 2018 - Todos direitos reservados</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 	<script src="js/jquery-1.11.3.min.js"></script>
 

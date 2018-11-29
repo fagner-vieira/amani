@@ -197,3 +197,29 @@ h1{
 }
 
 /* /Section 04 */
+
+/* Footer */
+
+
+.bgColorSix{
+    background-color: #231f20;
+}
+.txtSeven{
+    font-size: 1.3em;
+    font-weight: bold;
+    color: #fff; 
+}
+.txtEigth{
+    font-size: 1em;
+    color: #fff;
+}
+
+.txtNine{
+    color: #fff;
+    font-size: 1.1em;
+    text-align: center;
+    margin-top: 10%;
+}
+
+
+/* /Footer */
